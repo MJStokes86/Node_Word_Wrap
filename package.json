@@ -1,0 +1,15 @@
+{
+  "name": "node_word_wrap",
+  "version": "1.0.0",
+  "description": "Coding Challenge for Whitelabel",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+    },
+  "author": "Michael J. Stokes",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^3.6.4",
+    "jasmine-node": "^3.0.0"
+  }
+}
